@@ -1,0 +1,8 @@
+CHANGED,D:\0Createpro\spcall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\doteam\spcall\R$id$override.class
+CHANGED,D:\0Createpro\spcall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\0Createpro\spcall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\doteam\spcall\soccer\Soccer$override.class
+CHANGED,D:\0Createpro\spcall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\doteam\spcall\soccer\Soccerfield$override.class
+CHANGED,D:\0Createpro\spcall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\doteam\spcall\soccer\LocationList$override.class
+CHANGED,D:\0Createpro\spcall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\doteam\spcall\soccer\Soccer$3$override.class
+CHANGED,D:\0Createpro\spcall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\doteam\spcall\soccer\Soccer$2$override.class
+CHANGED,D:\0Createpro\spcall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\doteam\spcall\soccer\Soccer$1$override.class
