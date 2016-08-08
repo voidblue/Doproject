@@ -25,8 +25,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.doteam.spcall.soccer.LocationList" />
-        <activity android:name="com.doteam.spcall.soccer.Soccer" />
+        <activity android:name="com.doteam.spcall.soccer.SoccerfieldList" />
         <activity android:name="com.doteam.spcall.soccer.Soccerfield" />
     </application>
 

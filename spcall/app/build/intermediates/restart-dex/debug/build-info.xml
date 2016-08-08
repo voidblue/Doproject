@@ -4,30 +4,49 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="17423896176014"
+    timestamp="30041379367500"
     token="-1970134748061203708" >
 
     <task
         name="javac"
-        duration="3785" />
+        duration="405" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1063" />
+        duration="55" />
     <task
         name="verifier"
-        duration="328" />
+        duration="3" />
 
     <artifact
-        location="D:\0Createpro\Doproject\spcall\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="D:\0Createpro\Doproject\spcall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
 
-    <build timestamp="17423896176014" >
+    <build timestamp="29330657772913" >
         <artifact
             location="D:\0Createpro\Doproject\spcall\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="29527102078639" >
+        <artifact
+            location="D:\0Createpro\Doproject\spcall\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\0Createpro\Doproject\spcall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\0Createpro\Doproject\spcall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\0Createpro\Doproject\spcall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="30041379367500" >
+        <artifact
+            location="D:\0Createpro\Doproject\spcall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
