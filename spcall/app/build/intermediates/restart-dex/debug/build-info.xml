@@ -4,47 +4,30 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="19643786142380"
-    token="8911798532027664761" >
+    timestamp="17423896176014"
+    token="-1970134748061203708" >
 
     <task
         name="javac"
-        duration="16073" />
+        duration="3785" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1015" />
+        duration="1063" />
     <task
         name="verifier"
-        duration="178" />
+        duration="328" />
 
     <artifact
-        location="D:\0Createpro\spcall\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="D:\0Createpro\spcall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-        type="DEX" />
-    <artifact
-        location="D:\0Createpro\spcall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-        type="DEX" />
+        location="D:\0Createpro\Doproject\spcall\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="13573344473113" >
+    <build timestamp="17423896176014" >
         <artifact
-            location="D:\0Createpro\spcall\app\build\outputs\apk\app-debug.apk"
+            location="D:\0Createpro\Doproject\spcall\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="19643786142380" >
-        <artifact
-            location="D:\0Createpro\spcall\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="D:\0Createpro\spcall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-            type="DEX" />
-        <artifact
-            location="D:\0Createpro\spcall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

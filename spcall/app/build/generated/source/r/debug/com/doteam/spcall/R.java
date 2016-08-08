@@ -2670,7 +2670,7 @@ containing a value of this type.
         public static final int abc_select_dialog_material=0x7f040019;
         public static final int activity_locationlist=0x7f04001a;
         public static final int activity_main=0x7f04001b;
-        public static final int activity_soccer=0x7f04001c;
+        public static final int activity_soccerfieldlist =0x7f04001c;
         public static final int activity_soccerfield=0x7f04001d;
         public static final int app_bar_main=0x7f04001e;
         public static final int content_main=0x7f04001f;

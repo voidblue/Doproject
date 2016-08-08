@@ -14,7 +14,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.doteam.spcall.soccer.Soccer;
+import com.doteam.spcall.soccer.SoccerfieldList;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_camera) {
-            Intent i = new Intent(getApplicationContext(),Soccer.class);
+            Intent i = new Intent(getApplicationContext(),SoccerfieldList.class);
             startActivity(i);
         } else if (id == R.id.nav_gallery) {
 

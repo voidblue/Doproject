@@ -18,8 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".soccer.LocationList" />
-        <activity android:name=".soccer.Soccer" />
+        <activity android:name=".soccer.SoccerfieldList" />
         <activity android:name=".soccer.Soccerfield"></activity>
     </application>
 
